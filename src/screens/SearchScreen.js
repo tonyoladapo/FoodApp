@@ -7,7 +7,7 @@ const SearchScreen = () => {
     return (
         <View>
             <SearchBar />
-            <Text>SearchScreen</Text>
+            <Text>Search Screen</Text>
         </View>
     )
 }
